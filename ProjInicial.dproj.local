@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/05 08:22:58.000.797,=C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/05 08:25:46.000.040,C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Calculadora Científica\Projeto.pas=C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/05 08:25:46.000.040,C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Calculadora Científica\Projeto.dfm=C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/08/05 08:25:48.000.525,C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Calculadora Científica\Project1.dproj=C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/08/05 08:27:13.000.074,C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Calculadora Científica\ProjInicial.dproj=C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Calculadora Científica\Project1.dproj</Transaction>
+    <Transaction>2023/08/05 08:27:24.000.419,C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Calculadora Científica\inicial.pas=C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Calculadora Científica\Projeto.pas</Transaction>
+    <Transaction>2023/08/05 08:27:24.000.419,C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Calculadora Científica\inicial.dfm=C:\Users\fabio\Documents\Embarcadero\Studio\Projects\Calculadora Científica\Projeto.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

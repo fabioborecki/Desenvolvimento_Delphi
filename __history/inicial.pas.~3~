@@ -1,0 +1,26 @@
+unit inicial;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TFormulário = class(TForm)
+    TLabel_Total_Text: TLabel;
+    TEdit_Calculo_Visor: TEdit;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Formulário: TFormulário;
+
+implementation
+
+{$R *.dfm}
+
+end.

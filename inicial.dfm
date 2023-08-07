@@ -40,6 +40,7 @@
     Font.Style = []
     ParentFont = False
     TabOrder = 1
+    OnClick = Btn_n1Click
   end
   object Btn_n2: TButton
     Left = 87
